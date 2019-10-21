@@ -1,0 +1,16 @@
+{
+  "name": "SMS Translation with Nexmo & AWS Translate",
+  "description": "Example using AWS Translate to translate SMS messages.",
+  "keywords": ["translate", "sms", "nodejs", "AWS Translate", "nexmo"],
+  "repository": "https://github.com/nexmo-community/sms-translate-aws-js",
+  "env": {
+    "AWS_ACCESS_KEY_ID": {
+      "description": "The API Key from AWS user"
+    },
+    "AWS_SECRET_ACCESS_KEY": {
+      "description": "The SECRET from AWS user",
+    },
+    "AWS_REGION": {
+      "description": "The AWS region",
+    }
+  }
