@@ -1,6 +1,6 @@
 # SMS Translation with AWS Translate
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/aws-nexmo-sms-analysis-heroku)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/aws-nexmo-sms-translation-heroku)
 
 This example uses AWS Translate to translate SMS messages into English.
 
